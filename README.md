@@ -22,18 +22,8 @@
 
 ## 🏗️ Project Architecture
 
-```text
 React.js → Express.js / Node.js → MongoDB
 Frontend       Backend             Database
-```
-
-## ⚙️ Installation
-
-```bash
-git clone <your-repository-url>
-cd GourmetGo
-npm install
-npm start
 ```
 
 Configure your MongoDB connection in the `.env` file before running the application.
@@ -55,4 +45,3 @@ To develop a modern, user-friendly online food ordering platform while demonstra
 
 **Harpreet Kaur**
 
-> 🎓 Developed as an academic full-stack web development project.
